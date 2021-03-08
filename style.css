@@ -1,0 +1,43 @@
+h1{
+    color: blue;
+    font-weight: bold;
+}
+
+.highlight
+{
+    background-color: yellow;
+    font-style: italic;
+}
+
+#main-menu
+{
+    border:black 2px;
+    border-style: solid;
+    border-radius: 15px;
+}
+
+.highlight.highlight
+{
+    color:blue;
+}
+
+.para2
+{
+    border-style: dotted;
+}
+.article h2
+{
+    font-size: 0.5em;
+    text-transform: uppercase;
+}
+
+.col-size
+{
+        width:200px;
+        height:200px;
+        background: red;
+        
+        }
+
+/*color permet de changer la couleur du texte*/
+/*font-weighy permet de mettre du gras à du texte*/
